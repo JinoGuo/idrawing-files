@@ -165,7 +165,7 @@
           <mxGeometry x="1205" y="210" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k9NcOBl8pcAXGk8PamQF-49" value="高级关键词" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="980.5" y="305" width="80" height="30" as="geometry" />
+          <mxGeometry x="982" y="305" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9NcOBl8pcAXGk8PamQF-50" value="低级关键词" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1200" y="280" width="80" height="30" as="geometry" />
