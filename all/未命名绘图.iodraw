@@ -11,7 +11,7 @@
           <mxGeometry x="990" y="630.18" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="k9NcOBl8pcAXGk8PamQF-12" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="490" y="170" width="370" height="510" as="geometry" />
+          <mxGeometry x="510" y="170" width="350" height="510" as="geometry" />
         </mxCell>
         <mxCell id="E5emywUu2UywG-w3zPsT-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="30" y="170" width="370" height="860" as="geometry" />
@@ -207,7 +207,7 @@
           <mxGeometry x="1170" y="705.18" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k9NcOBl8pcAXGk8PamQF-69" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;内容整合&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="822.71" width="100" height="40" as="geometry" />
+          <mxGeometry x="1230" y="705.1800000000001" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k9NcOBl8pcAXGk8PamQF-72" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;最终结果&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1330" y="923.94" width="130" height="40" as="geometry" />
