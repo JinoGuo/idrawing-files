@@ -167,8 +167,11 @@
         <mxCell id="k9NcOBl8pcAXGk8PamQF-48" value="低级关键词" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1200" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k9NcOBl8pcAXGk8PamQF-49" value="假设文档" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="592.75" y="500" width="70" height="30" as="geometry" />
+        <mxCell id="k9NcOBl8pcAXGk8PamQF-49" value="高级关键词" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="980.5" y="305" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k9NcOBl8pcAXGk8PamQF-50" value="假设文档" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="602.75" y="510" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
