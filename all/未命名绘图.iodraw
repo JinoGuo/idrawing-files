@@ -143,8 +143,8 @@
         <mxCell id="k9NcOBl8pcAXGk8PamQF-11" value="复制到工作目录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="800" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k9NcOBl8pcAXGk8PamQF-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="554" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="k9NcOBl8pcAXGk8PamQF-12" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="370" height="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
