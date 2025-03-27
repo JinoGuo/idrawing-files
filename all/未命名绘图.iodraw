@@ -126,7 +126,7 @@
           <mxGeometry x="92.5" y="880" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k9NcOBl8pcAXGk8PamQF-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;" vertex="1" parent="1">
-          <mxGeometry x="480" y="826.57" width="140" height="67.87" as="geometry" />
+          <mxGeometry x="467.75" y="833.2900000000001" width="200" height="83.43" as="geometry" />
         </mxCell>
         <mxCell id="k9NcOBl8pcAXGk8PamQF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#FAE5C7;strokeColor=#0F8B8D;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="739.5" y="780" width="337.5" height="190" as="geometry" />
@@ -144,7 +144,7 @@
           <mxGeometry x="840.5" y="920.18" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k9NcOBl8pcAXGk8PamQF-11" value="复制到临时&lt;div&gt;工作目录&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="800.89" width="80" height="40" as="geometry" />
+          <mxGeometry x="507.75" y="807.6999999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k9NcOBl8pcAXGk8PamQF-13" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;HyDE增强&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="602.25" y="180" width="190" height="60" as="geometry" />
