@@ -119,8 +119,8 @@
         <mxCell id="E5emywUu2UywG-w3zPsT-61" value="增强问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="579" y="630" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E5emywUu2UywG-w3zPsT-74" value="知识库生成部分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;fontSize=37;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="78.75" y="950" width="280" height="60" as="geometry" />
+        <mxCell id="E5emywUu2UywG-w3zPsT-74" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;知识库生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;fontSize=37;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="118.75" y="950" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E5emywUu2UywG-w3zPsT-75" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;知识图谱+向量数据库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;fontSize=26;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="92.5" y="880" width="270" height="40" as="geometry" />
