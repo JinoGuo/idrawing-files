@@ -28,9 +28,6 @@
         <mxCell id="E5emywUu2UywG-w3zPsT-68" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="150" y="180" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="qEEXossR-qZH35OfmjeS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E5emywUu2UywG-w3zPsT-60" target="k9NcOBl8pcAXGk8PamQF-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="E5emywUu2UywG-w3zPsT-60" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="1347" y="497.5" width="100" height="100" as="geometry" />
         </mxCell>
@@ -135,7 +132,7 @@
           <mxGeometry x="133.75" y="645.1800000000001" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E5emywUu2UywG-w3zPsT-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;增强问题&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1357" y="567.5000000000001" width="80" height="30" as="geometry" />
+          <mxGeometry x="1574" y="675.0000000000001" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E5emywUu2UywG-w3zPsT-74" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;知识库生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;fontSize=37;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="118.75" y="950" width="200" height="60" as="geometry" />
