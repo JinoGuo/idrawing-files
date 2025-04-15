@@ -122,8 +122,8 @@
         <mxCell id="OSv77ZNtikdwLmkm4a9u-51" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="975" y="275" width="40" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="OSv77ZNtikdwLmkm4a9u-52" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;实体和关系抽取&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="210.4" width="143" height="40" as="geometry" />
+        <mxCell id="OSv77ZNtikdwLmkm4a9u-52" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;知识存储&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="212.5" width="143" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
