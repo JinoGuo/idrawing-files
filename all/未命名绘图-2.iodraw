@@ -10,8 +10,8 @@
         <mxCell id="OSv77ZNtikdwLmkm4a9u-2" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;数据来源&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="220" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OSv77ZNtikdwLmkm4a9u-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;相关论文&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="OSv77ZNtikdwLmkm4a9u-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;相关论文&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OSv77ZNtikdwLmkm4a9u-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAJcAAACXCAMAAAAvQTlLAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAByUExURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJri854AAAAldFJOUwAGCAkNEBMcHiAwMTQ3OD1ASUxQYGNwd3h8f4+ip6+/zM/S3+/csEIWAAAACXBIWXMAABcRAAAXEQHKJvM/AAACFElEQVR4Xu3YyVICQRCEYRRR2RRx3MANpd//FT0YrVI9MXZVZRkj5H9UrPgOmjIMBowxxhhTNG7MjeQtZItkbjOWx4A5XGk7kddweVwpLeQ5WD5XupX3UDldaSUPgvK60rO8iMntSi/yJCS/K20ihgzgCtmLb9dkVNV6h/TZFr8XP1zyW+2tdkS5Rr7MG8gFHzKUK63lC33ZXVvxm4bdC4drIGDQvfC4JOy98kRNLpeEAYfM55KwdC1fbs3pKmCovfC6ChjojY/bVcAwe+F3FTDIXgBcJQzwoIRwFTDAXkBcBcz/oIRxlTDvXoBcJcy5FyhXCfM9KMFcJcw1ZDhXCfMMGdBVwhx7gXS1wMx74XDJz+mapnn/upazPijZXZUZhyzcVXtXFO+yvYWlSxdduujSpXYN5Ad17U3+3FXX+HBcV68tHe/+2K8FuG6+vvQj7Vs8unTRpSvANX1oqQd/j5Do0kWXrgDX2YW9s3wkwNW6X5Xd5CN0VUWXrkN0DU/tDfORABckunTRpSvANXu0N8tHAlx93S+6OqJLV4tr/mRvno8EuCDRpYsuXQGuoxN7R/lIgKuv+0VXR3Tp+keu80t75/lIgAsSXbro0hXgmt51d9/RNB8JcPV1v+jqiC5dLa7lm71lPhLggkSXLrp00aWLLl106aJL1/67oqJLF1266NJFly6ba3QbHfb/CGOMMbb3fQCiQ3H4cL9NuAAAAABJRU5ErkJggg==;" vertex="1" parent="1">
           <mxGeometry x="190" y="270" width="80" height="80" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="290" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OSv77ZNtikdwLmkm4a9u-6" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;专业书籍&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="360" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
