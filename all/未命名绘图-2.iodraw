@@ -47,7 +47,7 @@
           <mxGeometry x="540" y="340" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OSv77ZNtikdwLmkm4a9u-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="190" y="480" width="220" height="180" as="geometry" />
+          <mxGeometry x="210" y="480" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="OSv77ZNtikdwLmkm4a9u-16" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font face=&quot;等线&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;提示工程&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="480" width="150" height="30" as="geometry" />
