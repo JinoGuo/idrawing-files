@@ -82,7 +82,7 @@
           <mxGeometry x="600" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YPsDCZWyzBnqF7-BP9zX-31" value="提取关键词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="187.1" width="70" height="30" as="geometry" />
+          <mxGeometry x="690" y="70" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
