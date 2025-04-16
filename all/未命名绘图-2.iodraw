@@ -16,9 +16,6 @@
         <mxCell id="YPsDCZWyzBnqF7-BP9zX-4" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="765" y="262.5" width="40" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="YPsDCZWyzBnqF7-BP9zX-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;知识存储&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="200" width="143" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="YPsDCZWyzBnqF7-BP9zX-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;知识图谱&amp;nbsp; &amp;nbsp;+&amp;nbsp; &amp;nbsp;向量知识库&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="342.5" width="230" height="30" as="geometry" />
         </mxCell>
