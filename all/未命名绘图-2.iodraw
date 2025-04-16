@@ -73,7 +73,7 @@
           <mxGeometry x="740" y="170" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YPsDCZWyzBnqF7-BP9zX-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;最终回答&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="653" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="574.5" y="384.07" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YPsDCZWyzBnqF7-BP9zX-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;高级关键词&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="892.5" y="170" width="90" height="30" as="geometry" />
@@ -95,14 +95,6 @@
         </mxCell>
         <mxCell id="YPsDCZWyzBnqF7-BP9zX-42" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;大模型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="546.25" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YPsDCZWyzBnqF7-BP9zX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.384;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YPsDCZWyzBnqF7-BP9zX-40" target="YPsDCZWyzBnqF7-BP9zX-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YPsDCZWyzBnqF7-BP9zX-45" value="知识整合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YPsDCZWyzBnqF7-BP9zX-44">
-          <mxGeometry x="-0.1889" y="-3" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
