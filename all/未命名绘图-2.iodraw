@@ -81,7 +81,7 @@
         <mxCell id="YPsDCZWyzBnqF7-BP9zX-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;大模型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YPsDCZWyzBnqF7-BP9zX-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YPsDCZWyzBnqF7-BP9zX-31" value="提取关键词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="187" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
